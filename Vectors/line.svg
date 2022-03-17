@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg shape-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" height="3.8px" width="15px" preserveAspectRatio="none" viewBox="0 0 250 82" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <rect y="31" width="250" height="19.217" style="stroke: rgba(0, 0, 0, 0); paint-order: stroke;" bx:origin="1 0.5"/>
-</svg>
+<svg shape-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com"><path bx:origin="1 0.5" stroke="transparent" paint-order="stroke" d="M0 31h250v19.217H0z"/></svg>
