@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg shape-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 139.7 81.3" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M0 40.64C5.261 38.435 85.146 28.477 95.557 0c9.179 18.723 41.29 31.687 44.168 31v9.64H0Zm0 0c5.261 2.205 85.146 12.163 95.557 40.64 9.179-18.723 41.29-31.687 44.168-31v-9.64H0Z"/>
+<svg shape-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 139.7 81.3" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 40.64C5.261 38.435 85.146 28.477 95.557 0c9.179 18.723 41.29 31.687 44.168 31v9.64H0Zm0 0c5.261 2.205 85.146 12.163 95.557 40.64 9.179-18.723 41.29-31.687 44.168-31v-9.64H0Z"/>
 </svg>
